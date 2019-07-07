@@ -1,13 +1,5 @@
 # vue-django-webpack-boilerplate
 
-> [@NdagiStanley](https://github.com/NdagiStanley) has mirrored the [fork](https://github.com/NdagiStanley/vue-django-fork) to have this repo here. This starterpack has proved useful to many and I thank you for the emails I have received from all of you. The reasoning behind this mirror is that this is an effort to **support the users** more by developing further on this project. From here on, I am calling on all potential collaborators by making it easier to make [PRs](https://github.com/NdagiStanley/vue-django/pulls) and adding utility of [Issues](https://github.com/NdagiStanley/vue-django/issues) in this 'new' repo (Of course with the same name :) ). Lastly, just so you know, I'll be keeping up with developments in the [`original`](https://github.com/vuejs-templates/webpack).
-
-<p align="center">
-  <b>Listed in</b>
-  <br>
-  <a href="https://github.com/vuejs/awesome-vue#scaffold" target="_blank"><img src="https://github.com/vuejs/awesome-vue/raw/master/logo.svg?sanitize=true" align="center" height="150" alt="Awesome VueJS"></a>
-</p>
-
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction integrated into a django application
 
 ## Vue CLI Version Notice
@@ -132,9 +124,3 @@ To create your own boilerplate, fork this repo or [vue-webpack-boilerplate](http
 ``` bash
 vue init username/repo my-project
 ```
-
-## Backers [![Backers on Open Collective](https://opencollective.com/vue-django/backers/badge.svg)](#backers)
-
-Thank you to all our backers!
-
-<a href="https://opencollective.com/vue-django#backers" target="_blank"><img src="https://opencollective.com/vue-django/backers.svg?width=890"></a>
